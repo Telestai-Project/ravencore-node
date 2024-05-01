@@ -28,8 +28,8 @@
   ],
   "dependencies": {
     "async": "2.6.2",
-    "ravend-rpc": "RavenDevKit/ravend-rpc",
-    "ravencore-lib": "RavenDevKit/ravencore-lib",
+    "ravend-rpc": "git+https://github.com/ravendevkit/ravend-rpc",
+    "ravencore-lib": "git+https://github.com/telestai-project/telecore-lib",
     "body-parser": "1.18.3",
     "colors": "1.3.3",
     "commander": "2.20.0",
@@ -58,7 +58,7 @@
     "jshint-stylish": "^2.1.0",
     "mocha": "^5.0.5",
     "proxyquire": "^1.3.1",
-    "ravencore-p2p": "RavenDevKit/ravencore-p2p",
+    "ravencore-p2p": "git+https://github.com/ravendevkit/ravencore-p2p",
     "rimraf": "^2.4.2",
     "sinon": "^4.4.8"
   },
